@@ -1,0 +1,21 @@
+* {
+    background-color: #E6E6E6;
+    /*font-family: 'Abel', sans-serif;*/
+    /*font-family: 'Anton', sans-serif;*/
+}
+
+#main-logo  {
+    height: 105px;
+    width: 105px;
+    margin: auto;
+    background-color: #F0F0F0;
+}
+
+#row2 {
+    background-color: #F0F0F0;
+}
+
+#row3 {
+    font-family: 'Abel', sans-serif;
+    font-size: 48px;
+}
