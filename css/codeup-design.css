@@ -63,6 +63,7 @@ a {
     font-size: 10px;
     width: 18px;
     height: 18px;
+    margin: 0 3px 3px 3px;
 }
 #apple-ipad-image {
     width: 100%;
@@ -70,5 +71,6 @@ a {
     border: 8px solid #e6e6e6;
     border-radius: 5px;
 }
+
 
 
