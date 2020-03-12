@@ -1,5 +1,5 @@
 * {
-    background-color: #E6E6E6;
+    background-color: #F0F0F0;
     /*font-family: 'Abel', sans-serif;*/
     /*font-family: 'Anton', sans-serif;*/
 }
@@ -11,11 +11,11 @@ a {
     height: 105px;
     width: 105px;
     margin: auto;
-    background-color: #F0F0F0;
+    background-color: #ffffff;
 }
 
 #row2 {
-    background-color: #F0F0F0;
+    background-color: #ffffff;
 }
 
 #codeup-design{
@@ -37,22 +37,38 @@ a {
     font-family: 'Anton', sans-serif;
     font-size: 20px;
     color: #F0F0F0;
-    height: 95px;
-    width: 95px;
-    border: 5px solid #F0F0F0;
-    border-radius: 50%;
-    margin: 20px;
+    height: 105px;
+    width: 105px;
+    border: 5px solid #ffffff;
+    margin: 10px;
 }
-#design, #design-text{
+#design, #design-text, #d1, #d1-text{
     background-color: #e6563b;
 }
-#develop, #develop-text {
+#develop, #develop-text, #d2, #d2-text {
     background-color: #eb9d3a;
 }
-#support, #support-text {
+#support, #support-text, #s, #s-text {
     background-color: #7cb06c;
 }
-#host, #host-text {
+#host, #host-text, #h, #h-text {
     background-color: #00aba9;
 }
+#selected-work, #featured-project {
+    font-family: 'Abel', sans-serif;
+    font-size: 15px;
+}
+.small-bubble {
+    font-family: 'Anton', sans-serif;
+    font-size: 10px;
+    width: 18px;
+    height: 18px;
+}
+#apple-ipad-image {
+    width: 100%;
+    height: auto;
+    border: 8px solid #e6e6e6;
+    border-radius: 5px;
+}
+
 
