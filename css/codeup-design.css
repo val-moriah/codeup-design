@@ -6,6 +6,9 @@
 a {
     color: black;
 }
+img {
+
+}
 
 #main-logo  {
     height: 105px;
@@ -16,6 +19,11 @@ a {
 
 #row2 {
     background-color: #ffffff;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100px;
 }
 
 #codeup-design{
