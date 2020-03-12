@@ -66,16 +66,19 @@ a {
     border: 5px solid #ffffff;
     margin: 10px;
 }
-#design, #design-text, #d1, #d1-text{
+#design, #design-text, #d1, #d1-text
+#d1-small, #d1-text-small{
     background-color: #e6563b;
 }
-#develop, #develop-text, #d2, #d2-text {
+#develop, #develop-text, #d2, #d2-text,
+#d2-small, #d2-text{
     background-color: #eb9d3a;
 }
-#support, #support-text, #s, #s-text {
+#support, #support-text, #s, #s-text, #s-text-small
+#s-small{
     background-color: #7cb06c;
 }
-#host, #host-text, #h, #h-text {
+#host, #host-text, #h, #h-text, #h-small, #s-text-small {
     background-color: #00aba9;
 }
 #selected-work, #featured-project {
@@ -89,7 +92,13 @@ a {
     height: 18px;
     margin: 0 3px 3px 3px;
 }
-#apple-ipad-image, #apple-ipad-image-1,
+#apple-ipad-image{
+    width: 100%;
+    height: auto;
+    border: 8px solid #e6e6e6;
+    border-radius: 5px;
+}
+#apple-ipad-image-1,
 #macbook-image, #security-image, #man-image{
     width: 80%;
     height: auto;
