@@ -6,29 +6,34 @@
 a {
     color: black;
 }
-img {
-
-}
 
 #main-logo  {
     height: 105px;
     width: 105px;
     margin: auto;
-    background-color: #ffffff;
+    background-color: transparent;
+    z-index: 1000;
+    position: absolute;
+
+
 }
 
 #row2 {
     background-color: #ffffff;
     position: absolute;
-    top: 0;
+
     left: 0;
     width: 100%;
-    height: 100px;
+    height: 50px;
+    z-index: 100;
+
+
 }
 
 #codeup-design{
     font-size: 32px;
     font-family: 'Abel', sans-serif;
+    margin: 1em 0 0 0;
 }
 #nav-xs {
     font-family: 'Abel', sans-serif;
