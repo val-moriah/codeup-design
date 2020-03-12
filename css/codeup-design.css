@@ -17,6 +17,12 @@ a {
     top: 24px;
     left: 110px;
 }
+#main-logo-s {
+    height: 105px;
+    width: 105px;
+    background-color: transparent;
+}
+
 
 #row2 {
     background-color: #ffffff;
@@ -28,7 +34,6 @@ a {
 
 
 }
-
 #codeup-design{
     font-size: 32px;
     font-family: 'Abel', sans-serif;
@@ -36,6 +41,13 @@ a {
 }
 #nav-xs {
     font-family: 'Abel', sans-serif;
+}
+#nav-s {
+    font-family: 'Abel', sans-serif;
+    background-color: #ffffff;
+}
+#nav-s > li {
+    background-color: #ffffff;
 }
 #h2-xs {
     font-family: 'Anton', sans-serif;
@@ -77,11 +89,17 @@ a {
     height: 18px;
     margin: 0 3px 3px 3px;
 }
-#apple-ipad-image {
-    width: 100%;
+#apple-ipad-image, #apple-ipad-image-1,
+#macbook-image, #security-image, #man-image{
+    width: 80%;
     height: auto;
     border: 8px solid #e6e6e6;
     border-radius: 5px;
+}
+.break-line {
+    margin: auto;
+    width: 70%;
+    border: 1px solid lightgrey;
 }
 
 
