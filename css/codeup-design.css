@@ -14,14 +14,13 @@ a {
     background-color: transparent;
     z-index: 1000;
     position: absolute;
-
-
+    top: 24px;
+    left: 110px;
 }
 
 #row2 {
     background-color: #ffffff;
     position: absolute;
-
     left: 0;
     width: 100%;
     height: 50px;
