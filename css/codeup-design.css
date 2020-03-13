@@ -73,18 +73,18 @@ a {
 #d1-small, #d1-text-small{
     background-color: #e6563b;
 }
-#develop, #develop-text, #d2, #d2-text,
-#d2-small, #d2-text{
+#develop, #develop-text, #d2, #d2-text, #d2-small,
+#d2-text-small, #d2-text{
     background-color: #eb9d3a;
 }
-#support, #support-text, #s, #s-text, #s-text-small
+#support, #support-text, #s, #s-text, #s-text-small,
 #s-small{
     background-color: #7cb06c;
 }
-#host, #host-text, #h, #h-text, #h-small, #h-text-small {
+#host, #host-text, #h, #h-text, #h-small, #h-text-small{
     background-color: #00aba9;
 }
-#selected-work, #featured-project {
+#selected-work, #featured-project-small {
     font-family: 'Abel', sans-serif;
     font-size: 15px;
 }
