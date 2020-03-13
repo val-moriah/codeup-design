@@ -66,7 +66,7 @@ a {
     border: 5px solid #ffffff;
     margin: 10px;
 }
-#design, #design-text, #d1, #d1-text
+#design, #design-text, #d1, #d1-text,
 #d1-small, #d1-text-small{
     background-color: #e6563b;
 }
@@ -78,7 +78,7 @@ a {
 #s-small{
     background-color: #7cb06c;
 }
-#host, #host-text, #h, #h-text, #h-small, #s-text-small {
+#host, #host-text, #h, #h-text, #h-small, #h-text-small {
     background-color: #00aba9;
 }
 #selected-work, #featured-project {
