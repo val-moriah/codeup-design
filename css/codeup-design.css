@@ -84,7 +84,7 @@ a {
 #host, #host-text, #h, #h-text, #h-small, #h-text-small{
     background-color: #00aba9;
 }
-#selected-work, #featured-project-small {
+#selected-work, #featured-project-small, #featured-project {
     font-family: 'Abel', sans-serif;
     font-size: 15px;
 }
