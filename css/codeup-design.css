@@ -28,7 +28,7 @@ a {
 #main-logo-m {
     position: absolute;
     bottom: -35px;
-    right: 305px;
+    left: 20px;
     height: 105px;
     width: 105px;
     background-color: transparent;
@@ -45,10 +45,17 @@ a {
 
 }
 #codeup-design{
+    background: transparent;
     font-size: 32px;
     font-family: 'Abel', sans-serif;
     margin: 1em 0 0 0;
 }
+.codeup-design-m {
+    position: absolute;
+    bottom: 5px;
+    left: 140px;
+}
+
 #nav-xs {
     font-family: 'Abel', sans-serif;
 }
@@ -118,6 +125,11 @@ a {
 .break-line {
     margin: auto;
     width: 70%;
+    border: 1px solid lightgrey;
+}
+.break-line-m {
+    margin: auto;
+    width: 90%;
     border: 1px solid lightgrey;
 }
 
