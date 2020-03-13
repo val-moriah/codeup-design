@@ -18,6 +18,9 @@ a {
     left: 110px;
 }
 #main-logo-s {
+    position: absolute;
+    bottom: -35px;
+    right: 270px;
     height: 105px;
     width: 105px;
     background-color: transparent;
@@ -44,7 +47,7 @@ a {
 }
 #nav-s {
     font-family: 'Abel', sans-serif;
-    background-color: #ffffff;
+    background-color: transparent;
 }
 #nav-s > li {
     background-color: #ffffff;
